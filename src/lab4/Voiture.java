@@ -14,7 +14,7 @@ public class Voiture {
 		this.annee = 2024;
 
 	}
-	// Constructeur paramétré
+	// Constructeur parametre
 	public Voiture(String marque, String modele, double vitesse, int annee) {
 
 		this.marque = marque;
